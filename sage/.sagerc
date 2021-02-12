@@ -1,0 +1,26 @@
+{
+  "theme": {
+    "name": "Scientia Naturam",
+    "version": "0.0.1",
+    "uri": "https://scientianaturam.com/services/theme",
+    "description": "ScientiaNturam is a theme designed for natural products and supplements stores.",
+    "author": {
+      "name": "\u001b[1;3y\u001b[1;3yCristian Sanchez",
+      "uri": ""
+    },
+    "license": {
+      "name": "Copyright Scientia Naturam, all rights reserved",
+      "uri": ""
+    },
+    "text_domain": "scientianaturam",
+    "banner": "This WordPress theme was built using tools provided by Roots.\n\nhttps://roots.io/",
+    "tags": [
+      "scientia naturam",
+      "supplements",
+      "natural",
+      "product",
+      "sales",
+      "immune system"
+    ]
+  }
+}
